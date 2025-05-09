@@ -11,6 +11,5 @@ Saved/
 .vscode/
 *.log
 
-# Git LFS (si utilisé)
-*.uasset
-*.umap
+# GitHub (existant sur le dépôt distant peut-être)
+README.md
