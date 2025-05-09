@@ -1,0 +1,16 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+.vs/
+.vscode/
+*.log
+
+# Git LFS (si utilisé)
+*.uasset
+*.umap
