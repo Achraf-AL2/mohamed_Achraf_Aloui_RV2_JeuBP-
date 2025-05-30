@@ -10,6 +10,9 @@ Saved/
 .vs/
 .vscode/
 *.log
+-Content/
++# Content/
+
 
 # GitHub (existant sur le dépôt distant peut-être)
 README.md
