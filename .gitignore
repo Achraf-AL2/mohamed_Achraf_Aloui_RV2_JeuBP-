@@ -1,18 +1,11 @@
-# Unreal Engine
+# Ignore intermediate files
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+.vscode/
 *.sln
 *.suo
-*.opensdf
-*.sdf
+*.xcodeproj
+*.xcworkspace
 .vs/
-.vscode/
-*.log
--Content/
-+# Content/
-
-
-# GitHub (existant sur le dépôt distant peut-être)
-README.md
